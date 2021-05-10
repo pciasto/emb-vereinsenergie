@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/*",
+            "serve": "https://www.emb-vereinsenergie.de",
+            "statusCode": 301
+        }
+    ]
+}
